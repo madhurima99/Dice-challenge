@@ -32,8 +32,21 @@ img {
   width: 80%;
 }
 
+#btn{
+
+  background-color:#4ECCA3;
+  border: none;
+  color: white;
+  margin-top: 1.5rem;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
 footer {
-  margin-top: 5%;
+  margin-top: 2%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
