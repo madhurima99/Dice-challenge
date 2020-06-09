@@ -1,5 +1,5 @@
 //For image 1
-
+alert("READ TO PLAY?");
 var randomNumber1=Math.floor( Math.random()*6) + 1;
 var randomDiceImage="dice" + randomNumber1 + ".png";
 var randomImageSource="images/" + randomDiceImage;
